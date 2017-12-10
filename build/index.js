@@ -13,3 +13,4 @@ const tags = ["new","old"];
 console.log(tags);
 var d = 50;
 console.log(d);
+console.log("test");
