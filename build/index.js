@@ -10,3 +10,4 @@ console.log("上传测试!");
 const arr = [1,2,3,4,5];
 console.log(arr);
 const tags = ["new","old"];
+console.log(tags);
